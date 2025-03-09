@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://5el78tk17y4s"
-path="res://.godot/imported/grass_tileset.png-3175be2bd686081831153af19df48f2c.ctex"
+uid="uid://l07pr5qnpk51"
+path="res://.godot/imported/new_character.png-bdaeab39748ba61b16a8f564d34f0a6d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Paradise_Asset_Pack_FREE/TileSets/new_terrain_metho/grass_tileset.png"
-dest_files=["res://.godot/imported/grass_tileset.png-3175be2bd686081831153af19df48f2c.ctex"]
+source_file="res://assets/Paradise_Asset_Pack_FREE/character/new_character.png"
+dest_files=["res://.godot/imported/new_character.png-bdaeab39748ba61b16a8f564d34f0a6d.ctex"]
 
 [params]
 

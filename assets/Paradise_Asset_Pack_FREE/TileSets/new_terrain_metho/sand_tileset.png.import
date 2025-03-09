@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c2ty2n2detun5"
-path="res://.godot/imported/sand_tileset.png-80f52cc1a07d91399cd7a4bb93aec36b.ctex"
+path="res://.godot/imported/sand_tileset.png-9358ee813133cbaa4fcdd9b483f2c5e4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/tiles/sand_tileset.png"
-dest_files=["res://.godot/imported/sand_tileset.png-80f52cc1a07d91399cd7a4bb93aec36b.ctex"]
+source_file="res://assets/Paradise_Asset_Pack_FREE/TileSets/new_terrain_metho/sand_tileset.png"
+dest_files=["res://.godot/imported/sand_tileset.png-9358ee813133cbaa4fcdd9b483f2c5e4.ctex"]
 
 [params]
 

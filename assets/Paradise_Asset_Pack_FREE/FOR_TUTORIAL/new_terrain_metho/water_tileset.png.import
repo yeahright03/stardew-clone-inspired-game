@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b8t8xpn03fpsk"
-path="res://.godot/imported/water_tileset.png-9409fc222ad99e4a6c043ffbc26a3b18.ctex"
+path="res://.godot/imported/water_tileset.png-92e04fe1e250608fea11abddbc6549fd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/tiles/water_tileset.png"
-dest_files=["res://.godot/imported/water_tileset.png-9409fc222ad99e4a6c043ffbc26a3b18.ctex"]
+source_file="res://assets/Paradise_Asset_Pack_FREE/FOR_TUTORIAL/new_terrain_metho/water_tileset.png"
+dest_files=["res://.godot/imported/water_tileset.png-92e04fe1e250608fea11abddbc6549fd.ctex"]
 
 [params]
 

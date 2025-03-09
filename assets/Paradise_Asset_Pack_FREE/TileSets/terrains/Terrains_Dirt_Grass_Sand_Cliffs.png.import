@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://5el78tk17y4s"
-path="res://.godot/imported/grass_tileset.png-3175be2bd686081831153af19df48f2c.ctex"
+uid="uid://drtcua0x2l62n"
+path="res://.godot/imported/Terrains_Dirt_Grass_Sand_Cliffs.png-e84e2b611ca3b4e520113c6615bcb1b2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Paradise_Asset_Pack_FREE/TileSets/new_terrain_metho/grass_tileset.png"
-dest_files=["res://.godot/imported/grass_tileset.png-3175be2bd686081831153af19df48f2c.ctex"]
+source_file="res://assets/Paradise_Asset_Pack_FREE/TileSets/terrains/Terrains_Dirt_Grass_Sand_Cliffs.png"
+dest_files=["res://.godot/imported/Terrains_Dirt_Grass_Sand_Cliffs.png-e84e2b611ca3b4e520113c6615bcb1b2.ctex"]
 
 [params]
 
